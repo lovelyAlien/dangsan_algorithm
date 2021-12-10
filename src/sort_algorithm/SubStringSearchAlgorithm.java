@@ -2,7 +2,7 @@ package sort_algorithm;
 
 import java.util.Scanner;
 
-public class SearchStringAlgorithm {
+public class SubStringSearchAlgorithm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
