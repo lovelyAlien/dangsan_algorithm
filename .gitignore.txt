@@ -1,0 +1,8 @@
+.venv
+.vscode/settings.json
+.DS_Store
+path/
+
+### IntelliJ IDEA ###
+*.iml
+.idea
