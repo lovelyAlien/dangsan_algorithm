@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prac_algorithm.iml" filepath="$PROJECT_DIR$/prac_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dangsan_algorithm.iml" filepath="$PROJECT_DIR$/dangsan_algorithm.iml" />
     </modules>
   </component>
 </project>
