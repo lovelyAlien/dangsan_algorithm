@@ -1,4 +1,4 @@
-package jason.programmers.stackandqueue.problem12978;
+package jason.programmers.graph.problem12978;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

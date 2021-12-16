@@ -1,4 +1,4 @@
-package jason.programmers.stackandqueue.problem12978;
+package jason.programmers.graph.problem12978;
 
 public class Problem12978 {
     public static void main(String[] args) {

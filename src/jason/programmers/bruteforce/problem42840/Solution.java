@@ -1,4 +1,4 @@
-package jason.programmers.stackandqueue.problem42840;
+package jason.programmers.bruteforce.problem42840;
 
 import java.util.ArrayList;
 import java.util.List;
