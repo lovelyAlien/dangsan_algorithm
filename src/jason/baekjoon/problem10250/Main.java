@@ -14,6 +14,7 @@ public class Main {
 
             int w=N/H+1;
             int h=N%H;
+
             if(h==0){
                 h=H;
                 w-=1;
